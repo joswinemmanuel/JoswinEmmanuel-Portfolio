@@ -113,7 +113,7 @@ export const DATA = {
       start: "Jul 2024",
       end: "Aug 2024",
       description:
-        "During my internship at CareStack as a Product Engineer, I had an enriching experience that pushed me beyond my comfort zone and fostered both professional and personal growth. I designed a modular reporting framework for CareStack's analytics platform using Telerik Reporting, enhancing efficiency and scalability. This framework streamlined the creation and customization of reports across diverse data modules, optimizing reporting operations and delivering impactful insights.",
+        "During my internship at CareStack as a Product Engineer, I had an enriching experience that pushed me beyond my comfort zone and fostered both professional and personal growth. I designed a modular reporting framework for CareStack s analytics platform using Telerik Reporting, enhancing efficiency and scalability. This framework streamlined the creation and customization of reports across diverse data modules, optimizing reporting operations and delivering impactful insights.",
     },
     {
       company: "TinkerHub SJCET",
@@ -130,7 +130,7 @@ export const DATA = {
   ],
   education: [
     {
-      school: "St. Joseph's College of Engineering and Technology, Palai",
+      school: "St. Joseph s College of Engineering and Technology, Palai",
       href: "https://sjcetpalai.ac.in/",
       degree: "Bachelor of Technology in Computer Science Engineering - CGPA: 9.1",
       logoUrl: "/sjcet.png",
@@ -138,7 +138,7 @@ export const DATA = {
       end: "2025",
     },
     {
-      school: "St. Joseph's College of Engineering and Technology, Palai",
+      school: "St. Joseph s College of Engineering and Technology, Palai",
       href: "https://sjcetpalai.ac.in/",
       degree: "Bachelor of Technology Honors in Computer Security",
       logoUrl: "/sjcet.png",
@@ -146,7 +146,7 @@ export const DATA = {
       end: "2025",
     },
     {
-      school: "St. Joseph's College of Engineering and Technology, Palai",
+      school: "St. Joseph s College of Engineering and Technology, Palai",
       href: "https://sjcetpalai.ac.in/",
       degree: "Bachelor of Technology Minor in VLSI and Embedded Systems",
       logoUrl: "/sjcet.png",
@@ -233,7 +233,7 @@ export const DATA = {
         "Smart India Hackathon prelims First Prize winning project. A visual novel game designed to educate the next generation on the importance of water conservation and the different water conservation techniques in a creative and interactive storytelling approach.",
       technologies: [
         "Python",
-        "Ren'Py",
+        "Ren Py",
         "Audacity",
         "Photoshop",
         "Game Development",
@@ -406,7 +406,7 @@ export const DATA = {
         "A visual novel game designed to educate the next generation on the importance of water conservation and the different water conservation techniques in a creative and interactive storytelling approach.",
       technologies: [
         "Python",
-        "Ren'Py",
+        "Ren Py",
         "Game Development",
         "Visual Novel",
         "Audacity",
