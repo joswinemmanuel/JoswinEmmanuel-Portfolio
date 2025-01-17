@@ -8,9 +8,9 @@ export const DATA = {
   location: "Kottayam, Kerala",
   locationLink: "https://www.google.com/maps/place/Kottyam",
   description:
-    "Enthusiastic Programmer. Aspiring to be a Software Developer. I love technology and I'm really amazed to see how it changes the world.",
+    "Enthusiastic Programmer. Aspiring to be a Software Developer. I love technology and I am really amazed to see how it changes the world.",
   summary:
-    "I embarked on my journey in computer science in 2019, starting with [Senior School in Computer Science](/#education). Now, as a final-year [Computer Science Engineering](/#education) student, I’m pursuing an [Honors degree in Computer Security](/#education) along with a [Minor degree in VLSI and Embedded Systems](/#education). Alongside academics, I’ve gained [valuable industry experience by working with companies during college](#work). My passion for programming and development has driven me to [achieve milestones such as winning hackathons and excelling in various competitions](/#achievements). In my free time, I channel my creativity into [exciting side projects](#projects), further fueling my enthusiasm for innovation.",
+    "I embarked on my journey in computer science in 2019, starting with [Senior School in Computer Science](/#education). Now, as a final-year [Computer Science Engineering](/#education) student, I&apos;m pursuing an [Honors degree in Computer Security](/#education) along with a [Minor degree in VLSI and Embedded Systems](/#education). Alongside academics, I&apos;ve gained [valuable industry experience by working with companies during college](#work). My passion for programming and development has driven me to [achieve milestones such as winning hackathons and excelling in various competitions](/#achievements). In my free time, I channel my creativity into [exciting side projects](#projects), further fueling my enthusiasm for innovation.",
   avatarUrl: "/joswin.png ",
   skills: [
     "Python",
