@@ -211,7 +211,7 @@ export default function Page() {
                 >
                   LinkedIn!!!
                 </Link>{" "}
-                Drop me a message, and I ll get back to you as soon as possible.
+                Drop me a message, and I will get back to you as soon as possible.
               </p>
             </div>
           </BlurFade>
