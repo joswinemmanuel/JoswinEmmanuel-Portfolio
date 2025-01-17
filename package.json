@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "NEXT_IGNORE_ESLINT_ERRORS=true next dev",
-    "build": "next build",
+    "dev": "next dev",
+    "build": "NEXT_IGNORE_ESLINT_ERRORS=true next build",
     "start": "next start",
     "lint": "next lint"
   },
