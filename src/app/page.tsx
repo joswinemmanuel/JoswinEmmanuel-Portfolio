@@ -123,7 +123,7 @@ export default function Page() {
                   Highlights of my journey
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  Throughout my college life, I achieved several milestones that reflect my hard work and dedication. Here are some of the accomplishments I'm most proud of.
+                  Throughout my college life, I achieved several milestones that reflect my hard work and dedication. Here are some of the accomplishments I&apos;m most proud of.
                 </p>
               </div>
             </div>
@@ -211,7 +211,7 @@ export default function Page() {
                 >
                   LinkedIn!!!
                 </Link>{" "}
-                Drop me a message, and I’ll get back to you as soon as possible.
+                Drop me a message, and I&apos;ll get back to you as soon as possible.
               </p>
             </div>
           </BlurFade>
